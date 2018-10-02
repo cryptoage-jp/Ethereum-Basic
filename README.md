@@ -1,2 +1,3 @@
-# Ethereum-Basic
+# Ethereum Basic
+
 Ethereum基礎
